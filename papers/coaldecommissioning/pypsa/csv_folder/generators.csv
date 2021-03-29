@@ -1,0 +1,9 @@
+name,bus,p_nom,carrier,marginal_cost,p_nom_extendable,ramp_limit_down,ramp_limit_up,capital_cost
+Coal,1,0,Coal,500,1,0.01,0.01,100000000
+LNG,2,5250,Gas,100,0,0.4,0.4,0
+Geothermal,2,160,RE,50,0,0.2,0.2,0
+Biomass,2,450,RE,50,0,0.2,0.2,0
+Solar,2,9000,RE,20,0,,,0
+Nuclear,2,4140,RE,50,0,,,0
+Wind,2,355,RE,50,0,,,0
+KyuHydrInflow,KyuHydrBus,5000,RE,0,0,,,0

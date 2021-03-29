@@ -1,0 +1,5 @@
+name,frequency,v_nom,voltage
+1,50,220.0,500
+2,50,220.0,500
+KyuHydrBus,50,,500
+PhesBus,50,,500

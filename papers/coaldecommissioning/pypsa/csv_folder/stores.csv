@@ -1,0 +1,3 @@
+name,bus,type,e_nom,e_initial,standing_loss
+KyuHydrReservoir,KyuHydrBus,,50000,0,0
+PhesStorage,PhesBus,,13800,0,0.002
